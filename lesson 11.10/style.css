@@ -1,0 +1,54 @@
+body{
+    background-color: #f2f4f7;
+    font-family: Arial, sans-serif;
+}
+
+#title{
+    text-align: center;
+
+
+}
+
+#name{
+    text-align: center;
+
+}
+
+.first{
+    color: darkolivegreen;
+    background: greenyellow;
+    text-align: center;
+}
+
+#second{
+    color: blue;
+    text-align:center;
+
+}
+
+#base{
+    background: white;
+    border: 1;
+    width: 400px;
+    height: 500px;
+
+}
+
+.telegram-btn {
+    justify-content: center;
+  background-color: #0f172a; 
+  color: #ffffff;            
+  padding: 12px 24px;
+  border: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 20px;         
+  width: fit-content;   
+  text-align: center;   
+}
+.avatar{
+width: 120px;
+height: 120px;
+
+}
